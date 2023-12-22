@@ -1,2 +1,2 @@
-Local host : 54.157.137.63
+Local host : 54.90.38.22
 Docker URL : https://hub.docker.com/repositories/rubanthomas92
